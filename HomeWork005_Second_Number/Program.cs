@@ -6,7 +6,7 @@ int SecondFigure = SecondNumber(a);
 if(a > 99 && a < 1000 || a < -99 && a > -1000)
 {
     int number2 = SecondNumber(a);
-    Console.WriteLine("Вторая цифра числа " + a + " = " + number2);
+    Console.WriteLine("Вторая цифра числа " + a + " = " + number2); 
 }
 else
 {
