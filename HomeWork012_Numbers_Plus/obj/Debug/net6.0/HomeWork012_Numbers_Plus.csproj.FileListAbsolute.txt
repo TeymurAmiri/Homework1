@@ -1,0 +1,15 @@
+C:\Users\timur\Desktop\GB\HomeWork012_Numbers_Plus\obj\Debug\net6.0\HomeWork012_Numbers_Plus.csproj.AssemblyReference.cache
+C:\Users\timur\Desktop\GB\HomeWork012_Numbers_Plus\obj\Debug\net6.0\HomeWork012_Numbers_Plus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\timur\Desktop\GB\HomeWork012_Numbers_Plus\obj\Debug\net6.0\HomeWork012_Numbers_Plus.AssemblyInfoInputs.cache
+C:\Users\timur\Desktop\GB\HomeWork012_Numbers_Plus\obj\Debug\net6.0\HomeWork012_Numbers_Plus.AssemblyInfo.cs
+C:\Users\timur\Desktop\GB\HomeWork012_Numbers_Plus\obj\Debug\net6.0\HomeWork012_Numbers_Plus.csproj.CoreCompileInputs.cache
+C:\Users\timur\Desktop\GB\HomeWork012_Numbers_Plus\bin\Debug\net6.0\HomeWork012_Numbers_Plus.exe
+C:\Users\timur\Desktop\GB\HomeWork012_Numbers_Plus\bin\Debug\net6.0\HomeWork012_Numbers_Plus.deps.json
+C:\Users\timur\Desktop\GB\HomeWork012_Numbers_Plus\bin\Debug\net6.0\HomeWork012_Numbers_Plus.runtimeconfig.json
+C:\Users\timur\Desktop\GB\HomeWork012_Numbers_Plus\bin\Debug\net6.0\HomeWork012_Numbers_Plus.dll
+C:\Users\timur\Desktop\GB\HomeWork012_Numbers_Plus\bin\Debug\net6.0\HomeWork012_Numbers_Plus.pdb
+C:\Users\timur\Desktop\GB\HomeWork012_Numbers_Plus\obj\Debug\net6.0\HomeWork012_Numbers_Plus.dll
+C:\Users\timur\Desktop\GB\HomeWork012_Numbers_Plus\obj\Debug\net6.0\refint\HomeWork012_Numbers_Plus.dll
+C:\Users\timur\Desktop\GB\HomeWork012_Numbers_Plus\obj\Debug\net6.0\HomeWork012_Numbers_Plus.pdb
+C:\Users\timur\Desktop\GB\HomeWork012_Numbers_Plus\obj\Debug\net6.0\HomeWork012_Numbers_Plus.genruntimeconfig.cache
+C:\Users\timur\Desktop\GB\HomeWork012_Numbers_Plus\obj\Debug\net6.0\ref\HomeWork012_Numbers_Plus.dll

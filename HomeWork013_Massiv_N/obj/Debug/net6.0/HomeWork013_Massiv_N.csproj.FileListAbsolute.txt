@@ -1,0 +1,15 @@
+C:\Users\timur\Desktop\GB\HomeWork013_Massiv_N\obj\Debug\net6.0\HomeWork013_Massiv_N.csproj.AssemblyReference.cache
+C:\Users\timur\Desktop\GB\HomeWork013_Massiv_N\obj\Debug\net6.0\HomeWork013_Massiv_N.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\timur\Desktop\GB\HomeWork013_Massiv_N\obj\Debug\net6.0\HomeWork013_Massiv_N.AssemblyInfoInputs.cache
+C:\Users\timur\Desktop\GB\HomeWork013_Massiv_N\obj\Debug\net6.0\HomeWork013_Massiv_N.AssemblyInfo.cs
+C:\Users\timur\Desktop\GB\HomeWork013_Massiv_N\obj\Debug\net6.0\HomeWork013_Massiv_N.csproj.CoreCompileInputs.cache
+C:\Users\timur\Desktop\GB\HomeWork013_Massiv_N\bin\Debug\net6.0\HomeWork013_Massiv_N.exe
+C:\Users\timur\Desktop\GB\HomeWork013_Massiv_N\bin\Debug\net6.0\HomeWork013_Massiv_N.deps.json
+C:\Users\timur\Desktop\GB\HomeWork013_Massiv_N\bin\Debug\net6.0\HomeWork013_Massiv_N.runtimeconfig.json
+C:\Users\timur\Desktop\GB\HomeWork013_Massiv_N\bin\Debug\net6.0\HomeWork013_Massiv_N.dll
+C:\Users\timur\Desktop\GB\HomeWork013_Massiv_N\bin\Debug\net6.0\HomeWork013_Massiv_N.pdb
+C:\Users\timur\Desktop\GB\HomeWork013_Massiv_N\obj\Debug\net6.0\HomeWork013_Massiv_N.dll
+C:\Users\timur\Desktop\GB\HomeWork013_Massiv_N\obj\Debug\net6.0\refint\HomeWork013_Massiv_N.dll
+C:\Users\timur\Desktop\GB\HomeWork013_Massiv_N\obj\Debug\net6.0\HomeWork013_Massiv_N.pdb
+C:\Users\timur\Desktop\GB\HomeWork013_Massiv_N\obj\Debug\net6.0\HomeWork013_Massiv_N.genruntimeconfig.cache
+C:\Users\timur\Desktop\GB\HomeWork013_Massiv_N\obj\Debug\net6.0\ref\HomeWork013_Massiv_N.dll
